@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timetable>
+    <train id="IR1662">
+        <station>
+            <name>Gara Mare Iasi</name>
+            <arrival>NULL</arrival>
+            <departure>14:20</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Nicolina Iasi</name>
+            <arrival>14:22</arrival>
+            <departure>14:24</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Vaslui</name>
+            <arrival>15:24</arrival>
+            <departure>15:26</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Bucuresti Nord</name>
+            <arrival>20:33</arrival>
+            <departure>NULL</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+    </train>
+    <train id="IR01668">
+        <station>
+            <name>Gara Mare Iasi</name>
+            <arrival>NULL</arrival>
+            <departure>22:45</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Vaslui</name>
+            <arrival>23:47</arrival>
+            <departure>23:51</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Tecuci</name>
+            <arrival>01:28</arrival>
+            <departure>01:30</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Buzau</name>
+            <arrival>03:50</arrival>
+            <departure>03:56</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Constanta</name>
+            <arrival>06:49</arrival>
+            <departure>NULL</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+    </train>
+    <train id="IR1830">
+        <station>
+            <name>Gara Galati</name>
+            <arrival>NULL</arrival>
+            <departure>06:14</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Tecuci</name>
+            <arrival>07:53</arrival>
+            <departure>07:55</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Vaslui</name>
+            <arrival>09:20</arrival>
+            <departure>09:21</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Nicolina Iasi</name>
+            <arrival>10:20</arrival>
+            <departure>10:21</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Mare Iasi</name>
+            <arrival>10:28</arrival>
+            <departure>10:51</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Suceava</name>
+            <arrival>12:44</arrival>
+            <departure>12:47</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Cluj Napoca</name>
+            <arrival>19:30</arrival>
+            <departure>NULL</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+    </train>
+    <train id="IR1864">
+        <station>
+            <name>Gara Mare Iasi</name>
+            <arrival>NULL</arrival>
+            <departure>08:09</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Nicolina Iasi</name>
+            <arrival>08:13</arrival>
+            <departure>08:14</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Vaslui</name>
+            <arrival>09:17</arrival>
+            <departure>09:22</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Tecuci</name>
+            <arrival>10:53</arrival>
+            <departure>10:55</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+        <station>
+            <name>Gara Galati</name>
+            <arrival>12:26</arrival>
+            <departure>NULL</departure>
+            <arrival_late>0</arrival_late>
+            <arrival_early>0</arrival_early>
+            <departure_late>0</departure_late>
+        </station>
+    </train>
+</timetable>
